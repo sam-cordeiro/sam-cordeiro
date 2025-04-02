@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou Samuel!
-## 🎓 Estudante do 3º ano do ensino médio | 💻 Estagiário na Direcional Engenharia
+## 🎓 Estudante do 3º ano do ensino médio técnico
 
 - Sobre mim:
 Sou apaixonado por tecnologia e inovação! Atualmente, sou estagiário de Desenvolvimento de Softwares em C# e Desenvolvedor RPA com Python, automatizando processos e criando soluções eficientes.
