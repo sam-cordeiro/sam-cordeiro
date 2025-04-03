@@ -11,11 +11,12 @@ Além do universo da programação, sou tecladista e tenho grande interesse por 
 
 - 🔹 Automação Robótica de Processos (RPA) com Python
 
-- 🔹 Desenvolvimento mobile com Flutter e Kotlin
+- 🔹 Desenvolvimento mobile com Flutter, Kotlin e Swift
 
-- 🔹 Programação web com JavaScript
+- 🔹 Desenvolvimento web com JavaScript, PHP e Laravel
 ## 🛠️ Tech Stack
-- Linguagens: C#, JavaScript, TypeScript, Dart, Swift, Kotlin, Php, Python
+          
+- Linguagens: C#, JavaScript, TypeScript, Dart, Swift, Kotlin, PHP, Python
 - Frameworks: .Net, Flutter, Laravel
 - Tools: Git, VS Code, Visual Studio, Xcode, Android Studio
 - Databases: MySQL, SQLServer, MongoDB
