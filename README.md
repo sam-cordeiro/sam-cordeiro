@@ -14,6 +14,11 @@ Além do universo da programação, sou tecladista e tenho grande interesse por 
 - 🔹 Desenvolvimento mobile com Flutter e Kotlin
 
 - 🔹 Programação web com JavaScript
+## 🛠️ Tech Stack
+- Linguagens: C#, JavaScript, TypeScript, Dart, Swift, Kotlin, Php, Python
+- Frameworks: .Net, Flutter, Laravel
+- Tools: Git, VS Code, Visual Studio, Xcode, Android Studio
+- Databases: MySQL, SQLServer, MongoDB
 
 💚 Tive a honra de ser voluntário no Code Club, ensinando conceitos de programação para crianças de forma prática e divertida.
 
