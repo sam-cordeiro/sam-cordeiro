@@ -13,10 +13,10 @@ Além do universo da programação, sou tecladista e tenho grande interesse por 
 
 - 🔹 Desenvolvimento mobile com Flutter, Kotlin e Swift
 
-- 🔹 Desenvolvimento web com JavaScript, PHP e Laravel
+- 🔹 Desenvolvimento web com TypeScript e Node.js
 ## 🛠️ Tech Stack
           
-- Linguagens: C#, JavaScript, TypeScript, Dart, Swift, Kotlin, PHP, Python
+- Linguagens: C#, JavaScript, TypeScript, Node.js, Dart, Swift, Kotlin, PHP, Python
 - Frameworks: .Net, Flutter, Laravel
 - Tools: Git, VS Code, Visual Studio, Xcode, Android Studio
 - Databases: MySQL, SQLServer, MongoDB
