@@ -27,3 +27,7 @@ Além do universo da programação, sou tecladista e tenho grande interesse por 
 🔗 <a href="https://www.linkedin.com/in/samuel-cordeiro-/">LinkedIn</a> | 📧 samuel7cordeiro@gmail.com
 
 Estou sempre aberto a novas conexões e oportunidades. Vamos transformar ideias em soluções! 🚀
+
+![sam-cordeiro's Stats](https://github-readme-stats.vercel.app/api?username=sam-cordeiro&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![sam-cordeiro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam-cordeiro&theme=tokyonight&hide_border=false)
+![sam-cordeiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-cordeiro&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
