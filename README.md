@@ -30,6 +30,4 @@ Estou sempre aberto a novas conexões e oportunidades. Vamos transformar ideias 
 
 ![sam-cordeiro's Stats](https://github-readme-stats.vercel.app/api?username=sam-cordeiro&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <br>
-![sam-cordeiro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam-cordeiro&theme=tokyonight&hide_border=false)
-<br>
 ![sam-cordeiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-cordeiro&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
